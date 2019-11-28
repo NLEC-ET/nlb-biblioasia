@@ -25,10 +25,10 @@ sections:
                     url: /page-A/
     -
         resources:
-            title: Resources
-            subtitle: 'Read up on'
-            button: 'More Resources'
-            url: resources/
+            title: 'Early Photographs of Singapore 1841-1918'
+            subtitle: 'Volume 15 Issue 03'
+            button: 'Articles'
+            url: article/
 
 ---
 
