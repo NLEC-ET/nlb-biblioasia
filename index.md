@@ -25,9 +25,4 @@ sections:
       subtitle: 'Read up on'
       button: 'More Resources'
       url: /resources/
-	- infobar:
-      title: BiblioAsia
-      subtitle: Features
-      button: Read our releases
-      url: /resources/
 ---
