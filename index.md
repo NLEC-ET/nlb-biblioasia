@@ -31,15 +31,6 @@ sections:
 			description: Learn about history, culture and heritage of Singapore within the larger Asian context
 			button: Check out our other issues
 			url: /faq/
-	- 
-		infopic:
-			title: GEORGETTE CHEN: ARTIST EXTRAORDINAIRE
-			subtitle: Features
-			description: Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
-			button: Read More
-			url: /resources/volume-15-issue-2/georgette-chen
-			image: /images/volume-15-issue-2/1.jpg
-			alt: Georgette Chen: Artist Extraordinaire
     -
         resources:
             title: Resources
