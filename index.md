@@ -24,6 +24,12 @@ sections:
                     title: 'Page A'
                     description: 'Page A is important too'
                     url: /page-A/
+	- infobar:
+        title: Read More. Read Widely. Read Together.
+        subtitle: Initiatives
+        description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
+        button: Check out our initiatives
+        url: /faq/
     -
         resources:
             title: Resources
