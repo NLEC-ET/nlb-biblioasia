@@ -25,11 +25,18 @@ sections:
                     description: 'Page A is important too'
                     url: /page-A/
 	- infobar:
-        title: Read More. Read Widely. Read Together.
-        subtitle: Initiatives
-        description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
-        button: Check out our initiatives
-        url: /faq/
+        title: Work for the public good
+        subtitle: Careers
+        description: Start a fulfulling and rewarding career with the Ministry of ABC!
+        button: Join Us
+        url: /careers/
+	- infopic:
+        title: Integrity
+        subtitle: Core Values
+        description: Integrity drives everything we do at the Ministry of ABC
+        button: Learn More
+        url: /core-values/
+        image: /images/integrity.png
     -
         resources:
             title: Resources
@@ -38,7 +45,3 @@ sections:
             url: resources/
 
 ---
-
-
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
-###### This website is in beta - your valuable [feedback](https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335){:target="_blank"} will help us in improving it.
