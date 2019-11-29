@@ -12,18 +12,14 @@ sections:
             button: 'Learn More'
             url: /about-us/
             key_highlights:
-                -
-                    title: 'Highlight A'
-                    description: 'Important highlight A is important'
-                    url: 'https://google.com'
-                -
-                    title: 'Highlight B'
-                    description: 'Important highlight B is equally important'
-                    url: 'https://yahoo.com'
-                -
-                    title: 'Page A'
-                    description: 'Page A is important too'
-                    url: /page-A/
+				- title: ABC services
+				  description: Find out what ABC can do for you
+				  url: /services/
+				- title: Our Annual Reports
+				  url: /annual-reports/
+				- title: Join ABC
+				  description: Unleash your passion and be rewarded with a fulfilling career!
+				  url: /careers/
 	- infobar:
         title: Work for the public good
         subtitle: Careers
