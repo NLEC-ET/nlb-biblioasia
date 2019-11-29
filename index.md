@@ -24,13 +24,6 @@ sections:
                     title: 'Page A'
                     description: 'Page A is important too'
                     url: /page-A/
-	- 
-		infobar:
-			title: BiblioAsia
-			subtitle: 
-			description: Learn about history, culture and heritage of Singapore within the larger Asian context
-			button: Check out our other issues
-			url: /faq/
     -
         resources:
             title: Resources
