@@ -5,30 +5,29 @@ description: 'BiblioAsia is a free quarterly publication produced by the Nationa
 permalink: /
 notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
 sections:
-    -
-        hero:
-            title: BiblioAsia
-            background: /images/homepage-background.png
-            button: 'Learn More'
-            url: /about-us/
-            key_highlights:
-                -
-                    title: 'Highlight A'
-                    description: 'Important highlight A is important'
-                    url: 'https://google.com'
-                -
-                    title: 'Highlight B'
-                    description: 'Important highlight B is equally important'
-                    url: 'https://yahoo.com'
-                -
-                    title: 'Page A'
-                    description: 'Page A is important too'
-                    url: /page-A/
-    -
-        resources:
-            title: Resources
-            subtitle: 'Read up on'
-            button: 'More Resources'
-            url: resources/
-
+    - hero:
+        title: BiblioAsia
+        background: /images/homepage-background.png
+        button: 'Learn More'
+        url: /about-us/
+        key_highlights:
+		- title: 'Highlight A'
+		  description: 'Important highlight A is important'
+          url: 'https://google.com'
+		- title: 'Highlight B'
+          description: 'Important highlight B is equally important'
+          url: 'https://yahoo.com'
+        - title: 'Page A'
+          description: 'Page A is important too'
+          url: /page-A/
+    - resources:
+      title: Resources
+      subtitle: 'Read up on'
+      button: 'More Resources'
+      url: /resources/
+	- infobar:
+      title: BiblioAsia
+      subtitle: Features
+      button: Read our releases
+      url: /resources/
 ---
