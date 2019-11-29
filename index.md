@@ -1,43 +1,51 @@
 ---
 layout: homepage
 title: BiblioAsia
-description: 'BiblioAsia is a free quarterly publication produced by the National Library Board. It features articles on the history, culture and heritage of Singapore within the larger Asian context, and has a strong focus on the collections and services of the National Library.'
+description: BiblioAsia is a free quarterly publication produced by the National Library Board
 permalink: /
-notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
+notification: 
 sections:
-    -
-        hero:
-            title: BiblioAsia
-            background: /images/homepage-background.png
-            button: 'Learn More'
-            url: /about-us/
-            key_highlights:
-                -
-                    title: 'Highlight A'
-                    description: 'Important highlight A is important'
-                    url: 'https://google.com'
-                -
-                    title: 'Highlight B'
-                    description: 'Important highlight B is equally important'
-                    url: 'https://yahoo.com'
-                -
-                    title: 'Page A'
-                    description: 'Page A is important too'
-                    url: /page-A/
-	- 
-		infopic:
-			title: 'GEORGETTE CHEN: ARTIST EXTRAORDINAIRE'
-			subtitle: 'Features'
-			description: 'Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.'
-			button: 'Read More'
-			url: /resources/volume-15-issue-2/georgette-chen
-			image: /images/volume-15-issue-2/1.jpg
-			alt: 'Georgette Chen: Artist Extraordinaire'
-    -
-        resources:
-            title: Resources
-            subtitle: 'Read up on'
-            button: 'More Resources'
-            url: resources/
-
+    - hero:
+        title: 
+        subtitle: 
+        background: /images/DBL Slider.png
+        url: /contact-us/
+        button: 
+        key_highlights:
+            - title: Read@Work
+              description: Read@Work supports organisations in seeding a reading culture at the workplace. Find out more!
+              url: http://www.nationalreadingmovement.sg/readwork/
+            - title: Book Clubs
+              description: Keen to share your thoughts about the books you have read? Why not join a book club? Find out more.
+              url: http://www.nationalreadingmovement.sg/book-clubs/
+            - title: NRM Mobile app
+              description: Read on-the-go! Thousands of eReads at your fingertips!
+              url: http://www.nationalreadingmovement.sg/book-clubs/
+    - infobar:
+        title: Read More. Read Widely. Read Together.
+        subtitle: Initiatives
+        description: Set aside some time to "Read More", "Read Widely" beyond the usual genres and "Read Together" with family and friends. Be involved now.
+        button: Check out our initiatives
+        url: /faq/
+    - infopic:
+        title: Read@Work
+        subtitle: Highlights
+        description: Find out how you can incorporate reading habits in the workplace
+        button: Learn More
+        url: /readwork/
+        image: /images/experiment-banner.jpg
+        alt: Read@Work
+    - infopic:
+        title: Recommended eReads
+        subtitle: Highlights
+        description: Thousands of eBooks, eMagazines and audiobooks at your fingertips.
+        button: Explore
+        url: http://nlb.overdrive.com
+        image: /images/digital-skill-banner.jpg
+        alt: Explore eReads
+    - resources:
+        title: Resources
+        subtitle: Read up on
+        button: More Resources
+		url: /resources/
 ---
