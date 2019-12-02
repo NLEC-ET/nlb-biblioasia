@@ -1,14 +1,14 @@
-logo: /images/nlb-logo.svg
+logo: /images/logo-biblioasia.png
 links:
     -
-        title: 'Contact Us'
-        url: /contact-us/
+        title: 'Features'
+        url: /features/
     -
-        title: Faq
-        url: /faq/
+        title: 'NL Notes'
+        url: /nl-notes/
     -
         title: 'About Us'
         url: /about-us/
     -
-        title: Resources
+        title: Past Issues
         resource_room: true
