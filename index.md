@@ -27,9 +27,9 @@ sections:
                     url: /page-A/
     -
         resources:
-            title: Resources
+            title: Articles
             subtitle: 'Read up on'
-            button: 'More Resources'
+            button: 'More articles'
             url: resources/
 
 ---
