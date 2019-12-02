@@ -2,7 +2,7 @@ logo: /images/logo-biblioasia.png
 links:
     -
         title: 'Features'
-        url: /features/
+        url: resources/features/
     -
         title: 'NL Notes'
         url: /nl-notes/
