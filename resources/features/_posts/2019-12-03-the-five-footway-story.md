@@ -1,14 +1,6 @@
----
-layout: post
-title: 'Give me shelter: The five-footway story'
-date: 2019-08-30T00:00:00.000Z
-permalink: /resources/features/the-five-footway
-
----
-
 The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. **Fiona Lim** relives its colourful history.
 
-“Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation.”[1](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-1-15146)
+“Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation.”[1](#1)
 
 – Hou & Chalana, 2016
 
@@ -38,9 +30,19 @@ British traveller and naturalist Isabella Bird was similarly taken by the liveli
 
 “… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods.”[5](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-5-15146)
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-wcck{background-color:#00d8cb;border-color:#000000;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <td class="tg-wcck">**The “Five-footway” Misnomer**   <br>The five-footway was historically known as the *verandah, kaki lima, ghokhaki* or *wujiaoji* (五脚基) – the latter three ­meaning “five feet” in Malay, Hokkien and Mandarin, respectively. However, these vernacular names and the commonly used “five-footway” are in fact misnomers: few of these walkways are actually 5 feet (1.5 m) wide as the regulation for the width of the path changed over time.While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s onwards, the law decreed that the path should be at least 6 feet wide. In 1887, the stipulated width extended to 7 feet (2.1 m), and subsequent legislations decreed a minimum of 7 feet. A 1929 by-law declared that footways in the busy thoroughfares of Chulia Street, Raffles Place and High Street should be at least 8 feet (2.4 m) wide, with no more than two feet of space occupied.[6](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-6-15146)</td>
+  </tr>
+</table></div>
 
 
-**Life in the Five-footway**
 
 Depending on which part of town a traveller was exploring, he or she might be in for a rude shock if they believe the following description of the five-footway (c. 1840) by Major James Low, a long-time employee of the Straits Civil Service:
 
@@ -120,7 +122,7 @@ From 1907 onwards, night street food hawkers were subject to licensing by the au
 
 In 1998, the problem resurfaced when Emerald Hill in the Orchard Road district was redeveloped into a nightlife area. To promote vibrancy in Emerald Hill, the Urban Redevelopment Authority permitted the use of the five-footway for food-and-beverage businesses. However, this drew the ire of a long-time resident, who said she was deprived of “the seamless, sheltered stroll she used to enjoy”, denying her the “equal right to that public space as intended by the town planners of yore”.[27](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-27-15146)
 
-In 2015, the popular nightlife at ­Circular Road near Boat Quay came under threat when the Land Transport Authority became stricter with countering pavement obstruction. Officials spotted “goods, tables and other materials” that had been “untidily” laid out on the streets, five-footways and back lanes of shophouses. This led to pedestrians having to skirt these obstructions and walk along the side of roads, causing them “inconvenience and danger”[28](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-28-15146)  – a refrain that harks back to as early as the 1840s.
+In 2015, the popular nightlife at ­Circular Road near Boat Quay came under threat when the Land Transport Authority became stricter with countering pavement obstruction. Officials spotted “goods, tables and other materials” that had been “untidily” laid out on the streets, five-footways and back lanes of shophouses. This led to pedestrians having to skirt these obstructions and walk along the side of roads, causing them “inconvenience and danger”[28](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-28-15146) – a refrain that harks back to as early as the 1840s.
 
 But one thing has changed: the use of the five-footway for business is today framed in terms of culture and heritage as people feel that allowing a more flexible use of the five-footway would help preserve the “city’s character”.[29](http://www.nlb.gov.sg/biblioasia/2019/11/29/give-me-shelter-the-five-footway-story/#easy-footnote-bottom-29-15146)
 
@@ -132,7 +134,7 @@ Navigating Singapore’s five-footways today is still a more interesting way of 
 
 **Notes**
 
-1. Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474) (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES)
+<p id="1">1. Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474) (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES) </p>
 2. Buckley, C.B. (1902). [*An anecdotal history of Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) (Vol. 1). Singapore: Fraser & Neave, Ltd, p. 84. Retrieved from BookSG.
 3. Lim, J.S.H. (1993). The ‘Shophouse Rafflesia’: An outline of its Malaysian pedigree and fits subsequent diffusion in Asia. *Journal of the Malaysian Branch of the Royal Asiatic Society, 66 (1) (264), 47–66*, pp. 51–52. Retrieved from JSTOR via NLB’s eResources website.
 4. Cameron, J. (1865). [*Our tropical possessions in Malayan India […\]*](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) (p. 60). London: Smith, Elder and Co. Retrieved from BookSG.
