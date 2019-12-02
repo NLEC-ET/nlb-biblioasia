@@ -2,13 +2,17 @@ logo: /images/logo-biblioasia.png
 links:
     -
         title: 'Features'
-        url: /features/
+        url: resources/features/
     -
         title: 'NL Notes'
-        url: /nl-notes/
+        url: resources/nl-notes/
+
+     -
+        title: 'Opinions'
+        url: resources/opinions/
     -
         title: 'About Us'
         url: /about-us/
     -
         title: Past Issues
-        resource_room: true
+        url: https://www.nlb.gov.sg/Browse/BiblioAsia.aspx
