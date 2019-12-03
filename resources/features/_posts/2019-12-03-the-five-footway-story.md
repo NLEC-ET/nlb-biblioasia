@@ -37,7 +37,7 @@ British traveller and naturalist Isabella Bird was similarly taken by the liveli
 
 > “… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods.”[^5]
 
-| ### **The “Five-footway” Misnomer** |
+| **The “Five-footway” Misnomer** |
 | The five-footway was historically known as the *verandah, kaki lima, ghokhaki* or *wujiaoji* (五脚基) – the latter three ­meaning “five feet” in Malay, Hokkien and Mandarin, respectively. However, these vernacular names and the commonly used “five-footway” are in fact misnomers: few of these walkways are actually 5 feet (1.5 m) wide as the regulation for the width of the path changed over time.While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s onwards, the law decreed that the path should be at least 6 feet wide. In 1887, the stipulated width extended to 7 feet (2.1 m), and subsequent legislations decreed a minimum of 7 feet. A 1929 by-law declared that footways in the busy thoroughfares of Chulia Street, Raffles Place and High Street should be at least 8 feet (2.4 m) wide, with no more than two feet of space occupied.[^6] |
 
 Depending on which part of town a traveller was exploring, he or she might be in for a rude shock if they believe the following description of the five-footway (c. 1840) by Major James Low, a long-time employee of the Straits Civil Service:
@@ -125,6 +125,13 @@ But one thing has changed: the use of the five-footway for business is today fra
 These days, albeit rarely, one may encounter a cobbler, florist or tailor on the five-footways of Little India, Chinatown or Kampong Glam, or shophouse businesses using the walkway space in front to display their goods.
 
 Navigating Singapore’s five-footways today is still a more interesting way of experiencing the city compared to the modern air-conditioned shopping complex, where homogeneity and predictability reign.
+
+| The Verandah Riots |
+| On 21 February 1888, under orders from Municipal President T.I. Rowell, municipal inspectors began clearing away obstructions along five-footways in the Kampong Glam area. As the authorities moved towards North Bridge Road, many shopkeepers shuttered their shops in protest. Chinese secret societies also began fomenting unrest – they had a stake in the five-footway trade as they offered “protection” to vendors in their territories in return for a fee. Soon, tramcars entering the town centre became the target of people armed with stones, and had their windows smashed.
+
+The violence escalated the following day. Secret society members hurled stones and bricks at people and vehicles in the vicinity of South Bridge Road, China Street, Canal Road, Boat Quay and North Bridge Road. Europeans who ventured into these areas were pelted with stones, with a number of them sustaining injuries. The town came to a standstill as no carriages or rickshaws dared to ply the area. The disruption continued into 23 February.
+
+Following a deadly confrontation with the police, the riots were quelled and, on the third day, shops began reopening. In the following weeks, local newspapers became once again fixated with the “Verandah Question”. Eventually, the law was amended to relax the prohibition of five-footway obstruction – as long as the five-footway could accommodate people walking two abreast, the authorities took no action. |
 
 ### **Notes**
 
