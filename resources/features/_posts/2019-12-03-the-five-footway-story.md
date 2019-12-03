@@ -19,24 +19,14 @@ Early paintings of Singapore by Government Surveyor of the Straits Settlements J
 
 ![Painting of a row of shophouses and the five-footway running along the facade](http://www.nlb.gov.sg/biblioasia/wp-content/uploads/2019/11/2-Swan-Maclaren_4-87_Pro1_low-1-23.jpg)Painting of a row of shophouses and the five-footway running along the facade. *Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Edition Synapse. (Call no.: RSING 950 PRE)*
 
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<h3><b>The Mandatory Five-footway</b></h3>
-			The five-footway (historically, often used interchangeably with the term “verandah”) was originally mandated by Stamford Raffles as part of his 1822 Town Plan of Singapore – also known as the Jackson Plan. Article 18 of the plan states: “Description of houses to be constructed, each house to have a verandah open at all times as a continued and covered passage on each side of the street.” This was to be carried out “for the sake of uniformity” in the townscape.[^2] Raffles’ intention to have the verandah “open at all times” would be frequently invoked in future contentions about the use of this space.
-			<p>
-			Scholars suggest that Raffles became acquainted with this architectural feature during his time as Lieutenant-General of Java. The Dutch colonisers had earlier introduced covered walkways and implemented a regular street alignment in Batavia (present-day Jakarta), capital of the Dutch East Indies.[^3]
-			<p>
-			In the late 19th and right up to the mid-20th century, an assortment of traders, from tinsmiths, barbers and cobblers to letter writers and parrot astrologers, conducted their businesses along the five-footways, while hawkers peddled food, drinks and even household sundries.
-			<p>
-			Operating in the five-footway required minimal capital, and thus it was the most viable option for those with little means. In turn, vendors could provide essential goods and services to consumers cheaply. The five-footway came to sustain the economic and social life of a working class of mainly immigrants who had come to Singapore to find work, hoping to give their families back home a better life.
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<img src="http://www.nlb.gov.sg/biblioasia/wp-content/uploads/2019/11/China-Street.jpg" alt="China Street">
-			<br>A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert & Co., c. 1890s. *Courtesy of Editions Didier Millet.*
-		</div>
-	</div>
-</div>
+| ### **The Mandatory Five-footway** |	|
+| The five-footway (historically, often used interchangeably with the term “verandah”) was originally mandated by Stamford Raffles as part of his 1822 Town Plan of Singapore – also known as the Jackson Plan. Article 18 of the plan states: “Description of houses to be constructed, each house to have a verandah open at all times as a continued and covered passage on each side of the street.” This was to be carried out “for the sake of uniformity” in the townscape.[^2] Raffles’ intention to have the verandah “open at all times” would be frequently invoked in future contentions about the use of this space.
+
+Scholars suggest that Raffles became acquainted with this architectural feature during his time as Lieutenant-General of Java. The Dutch colonisers had earlier introduced covered walkways and implemented a regular street alignment in Batavia (present-day Jakarta), capital of the Dutch East Indies.[^3]
+
+In the late 19th and right up to the mid-20th century, an assortment of traders, from tinsmiths, barbers and cobblers to letter writers and parrot astrologers, conducted their businesses along the five-footways, while hawkers peddled food, drinks and even household sundries.
+
+Operating in the five-footway required minimal capital, and thus it was the most viable option for those with little means. In turn, vendors could provide essential goods and services to consumers cheaply. The five-footway came to sustain the economic and social life of a working class of mainly immigrants who had come to Singapore to find work, hoping to give their families back home a better life. | ![China Street](http://www.nlb.gov.sg/biblioasia/wp-content/uploads/2019/11/China-Street.jpg)A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert & Co., c. 1890s. *Courtesy of Editions Didier Millet.* |
 
 ### **The Mandatory Five-footway**
 
