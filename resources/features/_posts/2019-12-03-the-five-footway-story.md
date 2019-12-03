@@ -5,6 +5,12 @@ date: 2019-08-30T00:00:00.000Z
 permalink: /resources/features/the-five-footway
 ---
 
+<style>
+table { 
+	background-color: #e8d1d9;
+	}
+</style>
+
 ![The five-footway story](\images\2-Swan-Maclaren_4-87_Pro1_low-1-23-s.jpg)
 
 The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. **Fiona Lim** relives its colourful history.
