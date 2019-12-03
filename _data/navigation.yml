@@ -2,14 +2,14 @@ logo: /images/logo-biblioasia.png
 links:
     -
         title: 'Features'
-        resource_room: true
+        url: /resources/features/
     -
         title: 'NL Notes'
-        resource_room: true
+        url: /resources/nl-notes/
 
      -
         title: 'Opinions'
-        resource_room: true
+        url: /resources/opinions/
     -
         title: 'About Us'
         url: /about-us/
