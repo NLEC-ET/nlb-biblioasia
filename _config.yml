@@ -1,12 +1,6 @@
 title: BiblioAsia
 url: ""
-favicon: /images/nlb-favicon.ico
-
-collections:
-  features:
-    output: true
-  nl-notes:
-    output: true
+favicon: /images/favicon-isomer.ico
 resources_name: resources
 
 ##################################################################################################################
