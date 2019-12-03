@@ -1,14 +1,17 @@
-logo: /images/nlb-logo.svg
+logo: /images/logo-biblioasia.png
 links:
     -
-        title: 'Contact Us'
-        url: /contact-us/
+        title: 'Features'
+        url: /resources/features/
     -
-        title: Faq
-        url: /faq/
+        title: 'NL Notes'
+        url: /resources/nl-notes/
+    -
+        title: 'Opinions'
+        url: /resources/opinions/
     -
         title: 'About Us'
         url: /about-us/
     -
-        title: Resources
-        resource_room: true
+        title: Past Issues
+        url: https://www.nlb.gov.sg/Browse/BiblioAsia.aspx
