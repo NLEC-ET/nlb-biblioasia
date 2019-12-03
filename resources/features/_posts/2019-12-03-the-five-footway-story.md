@@ -37,17 +37,8 @@ British traveller and naturalist Isabella Bird was similarly taken by the liveli
 
 > “… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods.”[^5]
 
-<style>
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-wcck{background-color:#00d8cb;border-color:#000000;text-align:left;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
-<div class="tg-wrap"><table class="tg">
-  <tr>
-    <td class="tg-wcck"><h3><b>The “Five-footway” Misnomer</b></h3><br>The five-footway was historically known as the <i>verandah, kaki lima, ghokhaki</i> or <i>wujiaoji</i> (五脚基) – the latter three ­meaning “five feet” in Malay, Hokkien and Mandarin, respectively. However, these vernacular names and the commonly used “five-footway” are in fact misnomers: few of these walkways are actually 5 feet (1.5 m) wide as the regulation for the width of the path changed over time.While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s onwards, the law decreed that the path should be at least 6 feet wide. In 1887, the stipulated width extended to 7 feet (2.1 m), and subsequent legislations decreed a minimum of 7 feet. A 1929 by-law declared that footways in the busy thoroughfares of Chulia Street, Raffles Place and High Street should be at least 8 feet (2.4 m) wide, with no more than two feet of space occupied.<sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup></td>
-  </tr>
-</table></div>
+| ### **The “Five-footway” Misnomer** |
+| The five-footway was historically known as the *verandah, kaki lima, ghokhaki* or *wujiaoji* (五脚基) – the latter three ­meaning “five feet” in Malay, Hokkien and Mandarin, respectively. However, these vernacular names and the commonly used “five-footway” are in fact misnomers: few of these walkways are actually 5 feet (1.5 m) wide as the regulation for the width of the path changed over time.While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s onwards, the law decreed that the path should be at least 6 feet wide. In 1887, the stipulated width extended to 7 feet (2.1 m), and subsequent legislations decreed a minimum of 7 feet. A 1929 by-law declared that footways in the busy thoroughfares of Chulia Street, Raffles Place and High Street should be at least 8 feet (2.4 m) wide, with no more than two feet of space occupied.[^6] |
 
 Depending on which part of town a traveller was exploring, he or she might be in for a rude shock if they believe the following description of the five-footway (c. 1840) by Major James Low, a long-time employee of the Straits Civil Service:
 
