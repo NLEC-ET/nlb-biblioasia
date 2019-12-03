@@ -3,10 +3,10 @@ url: ""
 favicon: /images/nlb-favicon.ico
 
 collections:
-    features:
-        output: true
-    nl-notes:
-        output: true
+  features:
+    output: true
+  nl-notes:
+
 resources_name: resources
 
 ##################################################################################################################
