@@ -6,6 +6,7 @@ collections:
   features:
     output: true
   nl-notes:
+    output: true
 
 resources_name: resources
 
