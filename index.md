@@ -15,8 +15,8 @@ sections:
             key_highlights:
                 -
                     title: 'Give me shelter- The five-footway story'
-                    description: 'Important highlight A is important'
-                    url: 'https://google.com'
+                    description: 'Relive the colourful history of five-footway'
+                    url: /resources/features/the-five-footway/
                 -
                     title: 'Civilians in the crossfire: The Malayan emergency'
                     description: 'Important highlight B is equally important'
