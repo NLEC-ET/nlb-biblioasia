@@ -7,9 +7,7 @@ permalink: /resources/features/the-five-footway
 
 The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. **Fiona Lim** relives its colourful history.
 
-“Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation.”[^1]
-
-– Hou & Chalana, 2016
+> “Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation.”[^1] – Hou & Chalana, 2016
 
 It may seem surprising in today’s context but the concept of a “messy urbanism” as defined by academics Jeffrey Hou and Manish Chalana is an apt description of Singapore in the 19th and mid-20th centuries. Such a phenomenon was played out in the five-footways of the town’s dense Asian quarters, including Chinatown, Little India and Kampong Glam.
 
@@ -19,7 +17,7 @@ Early paintings of Singapore by Government Surveyor of the Straits Settlements J
 
 ![Painting of a row of shophouses and the five-footway running along the facade](http://www.nlb.gov.sg/biblioasia/wp-content/uploads/2019/11/2-Swan-Maclaren_4-87_Pro1_low-1-23.jpg)Painting of a row of shophouses and the five-footway running along the facade. *Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Edition Synapse. (Call no.: RSING 950 PRE)*
 
-**The Mandatory Five-footway**
+### **The Mandatory Five-footway**
 
 The five-footway (historically, often used interchangeably with the term “verandah”) was originally mandated by Stamford Raffles as part of his 1822 Town Plan of Singapore – also known as the Jackson Plan. Article 18 of the plan states: “Description of houses to be constructed, each house to have a verandah open at all times as a continued and covered passage on each side of the street.” This was to be carried out “for the sake of uniformity” in the townscape.[^2] Raffles’ intention to have the verandah “open at all times” would be frequently invoked in future contentions about the use of this space.
 
@@ -35,13 +33,13 @@ Although the lives of Asian migrants in Singapore were steeped in this ecosystem
 
 British traveller and naturalist Isabella Bird was similarly taken by the liveliness of the five-footways when she visited Singapore in 1879:
 
-“… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods.”[^5]
+> “… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods.”[^5]
 
 
 
 Depending on which part of town a traveller was exploring, he or she might be in for a rude shock if they believe the following description of the five-footway (c. 1840) by Major James Low, a long-time employee of the Straits Civil Service:
 
-“A stranger may well amuse himself for a couple of hours in threading the piazas [sic] in front of the shops, which he can do unmolested by sun, at any hour of the day.”[^7]
+> “A stranger may well amuse himself for a couple of hours in threading the piazas [sic] in front of the shops, which he can do unmolested by sun, at any hour of the day.”[^7]
 
 In reality, the five-footways in the town’s Asian quarters teemed with so much obstruction and activity that pedestrians were all too often forced onto the road.
 
@@ -49,7 +47,7 @@ In reality, the five-footways in the town’s Asian quarters teemed with so much
 
 Low’s view was not a popular one. In 1843, a disgruntled individual offered a sharply contradictory experience in a letter to *The Singapore Free Press*, arguing for the public right of way:
 
-“[The verandah] is or was intended to provide for the accommodation of the public by furnishing them with a walk where they might be in some degree free from the sun and dust, and be in no danger of sudden death from numerous Palankeens that are always careering along the middle of the way. But this seems to have been forgotten, and the natives have very coolly appropriated the verandahs to their own special use by erecting their stalls in it and making it a place for stowing their goods.”[^8]
+> “[The verandah] is or was intended to provide for the accommodation of the public by furnishing them with a walk where they might be in some degree free from the sun and dust, and be in no danger of sudden death from numerous Palankeens that are always careering along the middle of the way. But this seems to have been forgotten, and the natives have very coolly appropriated the verandahs to their own special use by erecting their stalls in it and making it a place for stowing their goods.”[^8]
 
 The five-footway was originally intended for the use of pedestrians. Not only would the sheltered path provide respite from the tropical heat or a sudden downpour, it also served as a safe path away from road traffic. However, over time, the Asian communities began to use the five-footway for their own purposes, according to their needs and the realities of the day.
 
@@ -77,7 +75,7 @@ At dusk, as traders wound up for the day, residents gathered at the five-footway
 
 The five-footway did not merely serve economic needs – it was also a space for social interaction. Rather than being just a “conduit for human traffic” as it had originally been intended, academic Brenda S.A. Yeoh suggests that Asians perceived the five-footway in a “more ambivalent light”, such that the space was “sufficiently elastic to allow the co-existence of definitions”.[^17] It was precisely this flexibility of use that created the colourful multiplicity of local life found in the five-footways.
 
-**A Public Health Threat**
+### **A Public Health Threat**
 
 While mundane daily life unfolded in the five-footways, the authorities were dogged by sanitary issues such as clogged drains and sometimes even abandoned corpses. A strongly worded letter published in *The Straits Times* in 1892 by the municipal health officer accused “vagrant stallholders” of dumping refuse and bodily excretions into drains, causing an “abominable stench”.[^18]
 
@@ -85,7 +83,7 @@ An exasperated member of the public echoed this sentiment in 1925, calling the o
 
 Adding to the public health threat was the issue of visual disorder, which was also anathema to the government. An article published in 1879 in the *Straits Times Overland Journal* bemoaned the state of chaos along the five-footways:
 
-“It is not too much to say that there is no well-regulated city in this world in which such a state of affairs as can be daily seen, in say China Street, would be permitted.”[^20]
+> “It is not too much to say that there is no well-regulated city in this world in which such a state of affairs as can be daily seen, in say China Street, would be permitted.”[^20]
 
 Some Europeans also floated orienta­list – and ultimately racist – conceptions of Asians in Singapore.
 
@@ -93,7 +91,7 @@ An 1898 article in *The Singapore Free Press* charged that the practice of obstr
 
 ![A group of men playing cards on the five-footway along Serangoon Road](http://www.nlb.gov.sg/biblioasia/wp-content/uploads/2019/11/gambler.jpg)A group of men playing cards on the five-footway along Serangoon Road, c. 1970s. The five-footway is a place for social interaction and the strengthening of communal ties. *Ronni Pinsler Collection, courtesy of National Archives of Singapore.*
 
-**Whose Right of Way?**
+### **Whose Right of Way?**
 
 As the public and private spheres met in the liminal space of the five-footway, conflict over the right of use became ­inevitable. Almost from the very start, the verandah had been a thorny issue for the municipal authorities. Members of the public – mainly Europeans – expressed their frustration at having to jostle for space with vendors and their wares, along with shops whose goods occupied the entire walkway and the odd coolie having a siesta. Complaints revolved around the “risk of sunstroke or being run over” as pedestrians had to walk along the side of the road.[^22] Meanwhile, the municipality faced great difficulty in regulating the verandah for pedestrian use.
 
@@ -107,13 +105,13 @@ Nonetheless, the five-footway trade and the various obstructions continued unaba
 
 By 1899, the five-footway problem was referred to as the “very old Verandah Question” in the press,[^24] with the situation devolving into a game of “whack-a-mole” as officials sought out “obstructionists” and meted out fines to offenders. On 26 September 1900 alone, 70 individuals were fined $5 each for obstructing the five-footway.[^25] However, as the sheltered walkway was a transient space that saw the movement of both humans and goods, the task of completely eradicating occupation of the five-footways proved rather onerous. A letter to *The Straits Times* in 1925 said as much:
 
-“The most insidious and worst kind of obstruction is the temporary one. It consists generally of merchandise being either despatched from or received into a godown. In reality the obstruction is permanent, because as soon as one lot is removed another takes its place.”[^26]
+> “The most insidious and worst kind of obstruction is the temporary one. It consists generally of merchandise being either despatched from or received into a godown. In reality the obstruction is permanent, because as soon as one lot is removed another takes its place.”[^26]
 
 From 1907 onwards, night street food hawkers were subject to licensing by the authorities. After Singapore’s independence in 1965, food peddlers were moved into new standalone hawker centres. Nevertheless, the occasional itinerant food vendor could still be spotted along five-footways up until the 1980s. Over time, other five-footway traders also disappeared as the rules and their enforcement were tightened. Those with the means could relocate to a permanent location, while others simply gave up their trade for good.
 
 ![five-footway](http://www.nlb.gov.sg/biblioasia/wp-content/uploads/2019/11/five-footway.jpg)Goods spilling out onto the five-footway along Tanjong Pagar Road, 1982. *Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board Singapore.*
 
-**Resurgence of an Old Problem**
+### **Resurgence of an Old Problem**
 
 In 1998, the problem resurfaced when Emerald Hill in the Orchard Road district was redeveloped into a nightlife area. To promote vibrancy in Emerald Hill, the Urban Redevelopment Authority permitted the use of the five-footway for food-and-beverage businesses. However, this drew the ire of a long-time resident, who said she was deprived of “the seamless, sheltered stroll she used to enjoy”, denying her the “equal right to that public space as intended by the town planners of yore”.[^27]
 
@@ -125,9 +123,7 @@ These days, albeit rarely, one may encounter a cobbler, florist or tailor on the
 
 Navigating Singapore’s five-footways today is still a more interesting way of experiencing the city compared to the modern air-conditioned shopping complex, where homogeneity and predictability reign.
 
-
-
-**Notes**
+### **Notes**
 
 [^1]: Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474) (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES)
 [^2]: Buckley, C.B. (1902). [*An anecdotal history of Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) (Vol. 1). Singapore: Fraser & Neave, Ltd, p. 84. Retrieved from BookSG.
