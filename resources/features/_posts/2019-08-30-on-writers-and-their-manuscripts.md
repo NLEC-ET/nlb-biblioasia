@@ -2,7 +2,7 @@
 layout: post
 title: 'On writers and their manuscripts'
 date: 2019-08-30T00:00:00.000Z
-permalink: /article/features/on-writers-and-manuscripts
+permalink: /resources/features/on-writers-and-manuscripts
 
 ---
 
