@@ -1,7 +1,7 @@
 title: BiblioAsia
 url: ""
 favicon: /images/nlb-favicon.ico
-resources_name: resources
+resources_name: latest-issues
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

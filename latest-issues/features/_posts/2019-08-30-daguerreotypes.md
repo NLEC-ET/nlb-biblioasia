@@ -2,7 +2,7 @@
 layout: post
 title: 'Daguerreotypes to dry plates: Photography in 19th-century Singapore'
 date: 2019-08-30T00:00:00.000Z
-permalink: /resources/features/daguerreotypes
+permalink: /latest-features/features/daguerreotypes
 
 ---
 

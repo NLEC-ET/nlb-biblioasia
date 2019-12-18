@@ -27,9 +27,9 @@ sections:
                     url: /page-A/
     -
         resources:
-            title: Articles
+            title: Latest Issues
             subtitle: 'Read up on'
-            button: 'More articles'
-            url: resources/
+            button: 'Read Now'
+            url: /latest-issues/
 
 ---

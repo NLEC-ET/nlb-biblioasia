@@ -2,7 +2,7 @@
 layout: post
 title: Director's note
 date: 2019-08-30T00:00:00.000Z
-permalink: /resources/features/directorsnote-vol15iss3
+permalink: /latest-issues/features/directorsnote-vol15iss3
 
 ---
 
