@@ -10,3 +10,7 @@ description: The Ministry of ABC will be launching Initiative A to help Singapor
 hello world...
 
 ![sample image here when file doesnt load](/images/hero-banner.png)
+
+
+
+<img src="/images/hero-banner.png" alt="sample image here when file doesnt load" style="width:50%;" />
