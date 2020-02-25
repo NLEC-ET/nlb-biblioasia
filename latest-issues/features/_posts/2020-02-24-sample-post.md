@@ -8,3 +8,5 @@ description: The Ministry of ABC will be launching Initiative A to help Singapor
 ### Sample post
 
 hello world...
+
+![sample image here when file doesnt load](/images/hero-banner.png)
