@@ -1,10 +1,11 @@
 ---
 title: Director's Note
 permalink: /latest-reads/directors-note
-third_nav_title: Director's Note
+breadcrumb: Vol 15 Issue 1
+collection_name: latest-reads
 ---
 
-Welcome to the first issue of 2020! The start of any new year always provides us with the opportunity to look forward to what the future holds, and to reflect on our past.
+## Welcome to the first issue of 2020! The start of any new year always provides us with the opportunity to look forward to what the future holds, and to reflect on our past.
 
 Today, we take it for granted that we can get our fill of entertainment anytime and anywhere we want. We download movies and television programmes onto our phones and tablets, and watch them while lying in bed or riding the MRT.
 
