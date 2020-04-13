@@ -36,8 +36,6 @@ collections:
     output: true
 
 # Resources and pagination
-resources_name: events
+resources_name: blog
 paginate: 12
-paginate_path: "/events/page:num"
-
-is_government: false
+paginate_path: "/blog/page:num"
