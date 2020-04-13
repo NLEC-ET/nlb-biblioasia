@@ -2,8 +2,6 @@
 title: Director's Note
 permalink: /latest-reads/directors-note
 third_nav_title: Director's Note
-breadcrumb: Director's Note
-collection_name: latest-reads
 ---
 
 Welcome to the first issue of 2020! The start of any new year always provides us with the opportunity to look forward to what the future holds, and to reflect on our past.
