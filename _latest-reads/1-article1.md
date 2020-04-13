@@ -1,9 +1,7 @@
 ---
-title: Sample post there
+title: Article 1
 permalink: /latest-reads/article1
 third_nav_title: Article 1
-breadcrumb: Change to your own title description
-collection_name: latest-reads
 ---
 
 What is Lorem Ipsum?
