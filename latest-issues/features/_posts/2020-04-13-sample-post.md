@@ -1,5 +1,5 @@
 ---
-title: Sample post here
+title: Sample post there
 permalink: /latest-issues/features/sample-post/
 breadcrumb: Change to your own title description
 collection_name: The Ministry of ABC will be launching Initiative A to help Singaporeans...
