@@ -1,7 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Director's Note
 permalink: /latest-reads/directors-note
+third_nav_title: Director's Note
 breadcrumb: Director's Note
 collection_name: latest-reads
 ---
