@@ -36,6 +36,6 @@ collections:
     output: true
 
 # Resources and pagination
-resources_name: blog
+resources_name: latest-reads
 paginate: 12
-paginate_path: "/blog/page:num"
+paginate_path: "/latest-issues/page:num"
