@@ -3,6 +3,12 @@ url: "https://biblioasia.nlb.gov.sg"
 favicon: /images/nlb-favicon.ico
 resources_name: latest-issues
 
+collections:
+  about-us:
+    output: true
+  latest-reads:
+    output: true
+    
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
