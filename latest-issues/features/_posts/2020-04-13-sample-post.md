@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: Sample post there
 permalink: /latest-issues/features/sample-post/
 breadcrumb: Change to your own title description
