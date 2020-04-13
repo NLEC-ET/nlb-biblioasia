@@ -1,41 +1,46 @@
-title: National Library Board
-title-abbreviated: BiblioAsia
-descirption: BiblioAsia is a quarterly journal to promote the collections and programmes of the National Library, and to foster research and learning in the history, arts and culture of Singapore and Southeast Asia.
-url: "https://biblioasia.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
-safe: false
-
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_programmes: true
-homepage_resources: false
-homepage_careers: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+title: BiblioAsia
+url: "https://biblioasia.nlb.gov.sg"
+favicon: /images/nlb-favicon.ico
+resources_name: latest-issues
 
 collections:
   latest-reads:
     output: true
 
-# Resources and pagination
-resources_name: latest-reads
+##################################################################################################################
+# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
+##################################################################################################################
+permalink: none
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+description: nlb-biblioasia
 paginate: 12
-paginate_path: "/latest-issues/page:num"
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
+google-analytics: null
+permalink: none
+baseurl: ""
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: page
