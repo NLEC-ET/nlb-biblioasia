@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Director's Note
 permalink: /latest-reads/directors-note
-breadcrumb: Change to your own title description
+breadcrumb: Director's Note
 collection_name: latest-reads
 ---
 
