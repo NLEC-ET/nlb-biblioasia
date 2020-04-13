@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Sample post there
-permalink: /latest-read/features/
+permalink: /latest-reads/
 breadcrumb: Change to your own title description
 collection_name: The Ministry of ABC will be launching Initiative A to help Singaporeans...
 ---
