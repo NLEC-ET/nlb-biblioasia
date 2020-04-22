@@ -2,10 +2,8 @@ logo: /images/logo-biblioasia.png
 links:
     - title: 'Latest Reads'
       url: /latest-reads/article1
-    - title: 'Latest Issues'
+    - title: 'Past Issues'
       url: /latest-issues/
-    - title: Past Issues
-      url: https://www.nlb.gov.sg/Browse/BiblioAsia.aspx
     - title: 'About Us'
       url: /about-us/
     - title: 'Contact'
