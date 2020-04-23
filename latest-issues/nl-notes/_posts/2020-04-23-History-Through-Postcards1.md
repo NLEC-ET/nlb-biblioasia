@@ -118,7 +118,7 @@ The early Japanese community in Singapore comprised traders, businessmen, profes
 
 Part of the Lim Shao Bin Collection includes a set of postcards documenting the correspondence between businessman Ejiri Koichirō and his friend Tajika Shōjiro, spanning a decade across various countries. These postcards give us an idea of how early migrants adapted to life in Singapore. Some of the postcards exchanged between the two men are featured in the book.
 
-![Karayuki](C:\Users\User\Documents\GitHub\nlb-biblioasia\images\Karayuki.png)
+
 
 ###### This undated postcard features a Japanese woman, likely a *karayuki-san*, in her kimono. *Karayuki-san*, or Japanese prostitutes, sometimes posed for a fee at the request of photographers in Singapore.  *Accession no.: B32440324K_0076.*
 
