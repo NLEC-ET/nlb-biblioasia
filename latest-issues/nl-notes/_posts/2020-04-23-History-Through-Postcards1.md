@@ -20,7 +20,7 @@ This was not the case even 30 years back, let alone 100 years ago. And while ear
 
 Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
 
-<img src="C:\Users\Lewis Leong\Desktop\Work from Home\Biblioasia Online\wetransfer-97686f\nlb-biblioasia\images\Volume Test\NL Notes\History Through Postcards\Malay Village.png" alt="Malay Village" style="zoom:67%;" />
+<img src="C:\Users\User\Documents\GitHub\nlb-biblioasia\images\23 apr eddy\Malay Village" alt="Malay Village" style="zoom:67%;" />
 
 ###### This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore*. Accession no.: B29626253B_0047.*
 
