@@ -36,7 +36,9 @@ The first official postcards in Singapore were issued by the Straits Settlements
 
 A selection of some 160 Japanese postcards from the National Library’s Lim Shao Bin Collection – spanning the early 20th century to the 1940s – was recently published in the hardcover book *Postcard Impressions of Early 20th-century Singapore*. These comprise postcards featuring Japanese subject matter; postcards produced in Japan or by Japanese photographic studios, printers and stationers based in Singapore or Malaya; and postcards bearing messages written in Japanese. 
 
-<img src="C:\Users\User\Documents\GitHub\nlb-biblioasia\images\23 apr eddy\\Warship Asama.png">
+![Warship Asama](\images\23 apr eddy\\Warship Asama.png)
+
+
 
 ###### This postcard was posted from the warship *Asama* by Major Ōhashi Kyōzō and mailed to an address in Aichi prefecture. Being a military postcard, it did not require a postage stamp. The postcard shows a tropical sunset and two coconut trees set within a frame. The motif of the coconut tree was frequently used to evoke the exotic South Seas (Nanyō, or Nanyang) after the Japanese colonisation of Taiwan in 1895. The postcard was produced in commemoration of the Japanese Navy’s overseas training voyage from 1934 to 1935, which included Singapore (written in *katakana* characters) as a stopover. *Postmarked 1 January 1935. Printed by Tokyo Shibaura Asahi Printing Company. Accession no.: B32413808G_0026.*
 
