@@ -6,6 +6,21 @@ date: 2020-04-23T00:00:00.000Z
 third_nav_title: History Through Postcards
 ---
 
+<style>
+table { 
+	background-color: #e8d1d9;
+	}
+</style>
+
+#### One postcard may not say much, but a collection of postcards can speak volumes. **Stephanie Pee** tells us what *Postcard Impressions of Early 20th-century Singapore* has to say. One postcard may not say much, but a collection of postcards can speak volumes. Stephanie Pee tells us what *Postcard Impressions of Early 20th-century Singapore* has to say.
+
+
+These days, when we want to chat with friends and family living abroad, we just pick up our smartphones. The ability to communicate cheaply and easily with someone who lives thousands of kilometres away is something that we take for granted.
+
+This was not the case even 30 years back, let alone 100 years ago. And while early 20th-century Singapore did have telephone and telegraph links with the rest of the world, most people could only afford to communicate using letters and postcards.
+
+Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
+
 ![Malay_Village](C:\Users\User\Documents\GitHub\nlb-biblioasia-staging\images\Malay_Village.png))
 
 ###### This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore*. Accession no.: B29626253B_0047.*
