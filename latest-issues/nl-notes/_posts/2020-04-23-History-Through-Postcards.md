@@ -106,9 +106,9 @@ Early Japanese tourists to Singapore only had a few reliable sources to turn to 
 
 
 
-| **About the Lim Shao Bin Collection ** |
+|**About the Lim Shao Bin Collection **|
 
-| The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board. |
+|The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.|
 
 |​	Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period. | 
 
