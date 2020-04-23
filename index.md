@@ -28,8 +28,8 @@ sections:
     -
         resources:
             title: Latest Issues
-            subtitle: 'Read up on'
-            button: 'Read Now'
+            subtitle: 'Read our'
+            button: 'Past Issues'
             url: /latest-issues/
 
 ---
