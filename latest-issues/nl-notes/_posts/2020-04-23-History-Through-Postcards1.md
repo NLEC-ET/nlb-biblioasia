@@ -20,13 +20,13 @@ This was not the case even 30 years back, let alone 100 years ago. And while ear
 
 Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
 
-<img src="C:\Users\User\Documents\GitHub\nlb-biblioasia\images\23 apr eddy\Malay Village.png" alt="Malay Village" style="zoom:67%;" />
+<img src="C:\Users\User\Documents\GitHub\nlb-biblioasia\images\Malay Village.png" alt="Malay Village" style="zoom:67%;" />
 
 ###### This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore*. Accession no.: B29626253B_0047.*
 
 
 
-![Nihombashi](C:\Users\User\Documents\GitHub\nlb-biblioasia\images\23 apr eddy\\Nihombashi.png)
+![Nihombashi](C:\Users\User\Documents\GitHub\nlb-biblioasia\images\Nihombashi.png)
 
 ###### Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. *Sanuki Maru* of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. *Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093.*
 
@@ -36,7 +36,7 @@ The first official postcards in Singapore were issued by the Straits Settlements
 
 A selection of some 160 Japanese postcards from the National Library’s Lim Shao Bin Collection – spanning the early 20th century to the 1940s – was recently published in the hardcover book *Postcard Impressions of Early 20th-century Singapore*. These comprise postcards featuring Japanese subject matter; postcards produced in Japan or by Japanese photographic studios, printers and stationers based in Singapore or Malaya; and postcards bearing messages written in Japanese. 
 
-![Warship Asama](\images\23 apr eddy\\Warship Asama.png)
+![Warship Asama](C:\Users\User\Documents\GitHub\nlb-biblioasia\images\Warship_Asama.png)
 
 
 
