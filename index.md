@@ -29,7 +29,7 @@ sections:
         resources:
             title: Past Issues
             subtitle: 'Read our'
-            button: 'Past Issues'
+            button: 'View more'
             url: /latest-issues/
 
 ---
