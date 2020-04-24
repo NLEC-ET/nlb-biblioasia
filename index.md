@@ -30,6 +30,6 @@ sections:
             title: Past Issues
             subtitle: 'Read our'
             button: 'View more'
-            url: /latest-issues/
+            url: /past-issues/
 
 ---
