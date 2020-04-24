@@ -8,7 +8,7 @@ third_nav_title: History Through Postcards
 
 <style>
 table { 
-	background-color: #e8d1d9;
+	background-color: #33BBFF;
 	}
 </style>
 
@@ -20,8 +20,6 @@ These days, when we want to chat with friends and family living abroad, we just 
 This was not the case even 30 years back, let alone 100 years ago. And while early 20th-century Singapore did have telephone and telegraph links with the rest of the world, most people could only afford to communicate using letters and postcards.
 
 Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
-
-![test](https://image.shutterstock.com/image-photo/panorama-beautiful-countryside-romania-sunny-600w-1302294157.jpg)
 
 ![Malay_Village](C:\Users\User\Documents\GitHub\nlb-biblioasia-staging\images\Malay_Village.png)
 
@@ -79,7 +77,7 @@ Early Japanese tourists to Singapore only had a few reliable sources to turn to 
 
 
 
-![Nihombashi](C:\Users\User\Documents\GitHub\nlb-biblioasia-staging\images\Nihombashi.png)
+<img src=" C:\Users\User\Documents\GitHub\nlb-biblioasia-staging\images\Nihombashi.png" alt="Nihombashi" style="zoom:67%;" />
 
 ###### Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard (left) is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. *Dated April 1923. Accession no.: B32413805D_0100.*
 
