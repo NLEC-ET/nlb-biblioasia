@@ -9,14 +9,7 @@ locations:
         - "#14-01 National Library Building"
         - Singapore 188064
     maps_link: 
-  # Operating Hours [OPTIONAL]
-    operating_hours:
-      - days: 
-        time: 
-      - days: 
-        time: 
-        description: 
-
+ 
 # Contact Us
 # For line: If you have an email, put "(email)" after the actual email
 contacts:
