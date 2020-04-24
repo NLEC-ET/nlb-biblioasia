@@ -27,7 +27,7 @@ sections:
                     url: /page-A/
     -
         resources:
-            title: Latest Issues
+            title: Past Issues
             subtitle: 'Read our'
             button: 'Past Issues'
             url: /latest-issues/
