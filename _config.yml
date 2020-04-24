@@ -1,7 +1,7 @@
 title: BiblioAsia
 url: "https://biblioasia.nlb.gov.sg"
 favicon: /images/nlb-favicon.ico
-resources_name: latest-issues
+resources_name: past-issues
 
 collections:
   latest-reads:
