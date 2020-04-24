@@ -1,6 +1,6 @@
 ---
 title: History Through Postcards
-permalink: /latest-reads/article1
+permalink: /latest-reads/NL NOTES
 date: 2020-04-23T00:00:00.000Z
 third_nav_title: History Through Postcards
 ---
