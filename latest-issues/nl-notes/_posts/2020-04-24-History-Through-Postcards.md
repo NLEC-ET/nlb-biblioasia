@@ -1,15 +1,16 @@
 ---
 title: History Through Postcards
-permalink: /latest-reads/NL NOTES
+permalink: /latest-reads/article1
 date: 2020-04-23T00:00:00.000Z
 third_nav_title: History Through Postcards
 ---
 
 <style>
 table { 
-	background-color: #e8d1d9;
+	background-color: #e1deea;
 	}
 </style>
+
 
 ### One postcard may not say much, but a collection of postcards can speak volumes. **Stephanie Pee** tells us what *Postcard Impressions of Early 20th-century Singapore* has to say. One postcard may not say much, but a collection of postcards can speak volumes. Stephanie Pee tells us what *Postcard Impressions of Early 20th-century Singapore* has to say.
 
@@ -26,7 +27,7 @@ Postcards, in particular, were popular. Although space was limited and the messa
 
 
 
-![South Bridge Road](images/South Bridge Road.png)
+<img src="images/South_Bridge_Road.png" alt="South_Bridge_Road" style="zoom:67%;" />
 
 ###### Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. *Sanuki Maru* of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. *Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093.*
 
@@ -59,7 +60,7 @@ Included in the book are postcards issued by the Imperial Japanese Navy. Singapo
 
 In addition, the book features commemorative postcards marking the fall of Singapore in February 1942. These were issued by the Imperial Japanese postal service, which also came up with special postmarks and postage stamps.
 
-<img src="images/Fall of Singapore.png" alt="Fall of Singapore" style="zoom: 67%;" />
+<img src="images/Fall_of_Singapore.png" alt="Fall of Singapore" style="zoom: 67%;" />
 
 ###### Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). *Dated 1942 and 1943. Accession no.: B32413808G_0030.*
 
@@ -68,13 +69,13 @@ In addition, the book features commemorative postcards marking the fall of Singa
 
 Early Japanese tourists to Singapore only had a few reliable sources to turn to for travel information: word-of-mouth from family and friends, published writings by other travellers (such as travel guidebooks) and, of course, postcards sent by acquaintances who had been on similar journeys. 
 
-![Alkaff Gardens](images/Alkaff Gardens.png)
+<img src="images/Alkaff_Gardens.png" alt="Alkaff_Gardens" style="zoom: 67%;" />
 
 ###### Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popular destination among locals and Japanese tourists. The garden had a Japanese teahouse that served “refreshments all day and night until 12 o'clock”. The picture on this undated postcard is also featured in an advertisement for Alkaff Gardens published in the 31 May 1930 issue of the *Malayan Saturday Post*, suggesting that the postcard had been specially commissioned to publicise the garden. On the far left of the picture is a traditional Japanese lantern made of stone called a *tōrō*. The garden, which was located near the former Bidadari Cemetery, closed in December 1941 in preparation for war. Cedar Girls’ Secondary School currently occupies the site. *Accession no.: B32413806E_0002*
 
 
 
-![Nihombashi](images/Nihombashi.png)
+<img src="images/Nihombashi.png" alt="Nihombashi" style="zoom: 67%;" />
 
 ###### Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard (left) is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. *Dated April 1923. Accession no.: B32413805D_0100.*
 
@@ -85,7 +86,7 @@ Recurring images featured on postcards include fishing villages on Pulau Brani, 
 
 Idyllic fishing villages were very likely the first scenes that greeted travellers when they set foot on Singapore.[^4] The sight was a great source of fascination to Japanese travellers, and was frequently mentioned in their written and illustrated accounts of the island.[^5]
 
-![Rochor River](images/Rochor River.png)
+<img src="images/Rochor_River.png" alt="Rocher_River" style="zoom: 67%;" />
 
 ###### A small herd of cattle in a river, possibly the Rochor River, that once flowed in the vicinity of Selegie and Rochor Canal roads. *Accession no.: B32413805D_0171.*
 
@@ -95,7 +96,7 @@ Idyllic fishing villages were very likely the first scenes that greeted travelle
 ###### The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. *Accession no.: B32413807F_0146.*
 
 
-![Pulau Brani](images/Pulau Brani.png)
+![Pulau Brani](images/Pulau_Brani.png)
 
 ###### *Sampans* and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. *Publisher: Wilson & Co., Singapore. Accession no.: B32413807F_0002.*
 
@@ -125,12 +126,13 @@ Some postcards featured the *karayuki-san* posing provocatively in their kimonos
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
-<img src="C:\Users\Lewis Leong\Desktop\Work from Home\Biblioasia Online\wetransfer-97686f\nlb-biblioasia\images\Volume Test\NL Notes\History Through Postcards\Lim Shao Bin mockup.png" alt="Lim Shao Bin mockup" style="zoom:25%;" />
+<img src="images/Lim_Shao_Bin_mockup.png" alt="Lim Shao Bin mockup" style="zoom: 25%%;" />
 
-| ###### *Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. |
+| __Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community__, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. |
 
 
-![Profile](images/Profile.png)
+
+<img src="images/profile.png" alt="Profile" style="zoom: 10%%;" />
 
 **Stephanie Pee** is an Assistant Manager with the Publishing department at the National Library, Singapore. She edits publications produced by the National Library and manages book projects. 
 
