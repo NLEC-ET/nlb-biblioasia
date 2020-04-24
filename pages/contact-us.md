@@ -16,7 +16,7 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: 
-    - email: ref@nlb.gov.sg "(email)"
+    - email: ref@nlb.gov.sg
     - other:
   - title: 
     content:
