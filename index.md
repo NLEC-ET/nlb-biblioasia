@@ -11,7 +11,7 @@ sections:
             title: 'Early Photographs of Singapore'
             background: /images/homepage-background.png
             button: 'Read this issue!'
-            url: /about-us/
+            url: /latest-issues/
             key_highlights:
                 -
                     title: 'Give me shelter- The five-footway story'
